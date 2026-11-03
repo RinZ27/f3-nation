@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.7.1](https://github.com/F3-Nation/f3-nation/compare/auth@2.7.0...auth@2.7.1) (2026-11-03)
+
+
+### Bug Fixes
+
+* **auth:** keep completed registration non-submittable ([#1452](https://github.com/F3-Nation/f3-nation/issues/1452)) ([a997416](https://github.com/F3-Nation/f3-nation/commit/a9974162ddf6725f8e903a9076c864c5330c9995))
+* **slackbot:** preserve punctuation in welcome email subjects ([#1438](https://github.com/F3-Nation/f3-nation/issues/1438)) ([56c9f2b](https://github.com/F3-Nation/f3-nation/commit/56c9f2b0ac47ce182f01cd5a604db1e6c4f72e06))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/ui bumped to 0.3.1
+
 ## [2.7.0](https://github.com/F3-Nation/f3-nation/compare/auth@2.6.0...auth@2.7.0) (2026-10-29)
 
 

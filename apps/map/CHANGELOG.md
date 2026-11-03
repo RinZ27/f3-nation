@@ -1,5 +1,20 @@
 # Changelog
 
+## [7.9.1](https://github.com/F3-Nation/f3-nation/compare/map@7.9.0...map@7.9.1) (2026-11-03)
+
+
+### Bug Fixes
+
+* **map:** preserve AO identity after weekday filtering ([#1455](https://github.com/F3-Nation/f3-nation/issues/1455)) ([429d033](https://github.com/F3-Nation/f3-nation/commit/429d033160dc3cf1f8498ce2407ce1f3bccf88f6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @acme/api bumped to 0.16.1
+    * @acme/ui bumped to 0.3.1
+
 ## [7.9.0](https://github.com/F3-Nation/f3-nation/compare/map@7.8.1...map@7.9.0) (2026-10-29)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.1](https://github.com/F3-Nation/f3-nation/compare/pkg-api@0.16.0...pkg-api@0.16.1) (2026-11-03)
+
+
+### Bug Fixes
+
+* **api:** invalidate map data for one-off event updates ([#1457](https://github.com/F3-Nation/f3-nation/issues/1457)) ([15c41c9](https://github.com/F3-Nation/f3-nation/commit/15c41c9e14507c5cbd016d72cec8434f94cf090f))
+
 ## [0.16.0](https://github.com/F3-Nation/f3-nation/compare/pkg-api@0.15.0...pkg-api@0.16.0) (2026-10-29)
 
 
